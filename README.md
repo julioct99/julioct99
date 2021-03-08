@@ -13,8 +13,4 @@ I'm Julio Casallo, a full stack web developer 💻. Im passionate about software
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioct99&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 Currently learning Angular
-- 👯 I’m looking to collaborate on any project
-- 💬 Ask me about anything
 - 📫 How to reach me: jcasallot01@gmail.com
-- 😄 Pronouns: he/him
