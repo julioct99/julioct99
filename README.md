@@ -13,4 +13,7 @@ I'm Julio Casallo, a full stack web developer 💻. Im passionate about software
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioct99&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=julioct99&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
 - 📫 How to reach me: jcasallot01@gmail.com
