@@ -19,6 +19,7 @@ I'm Julio Casallo, a full stack web developer 💻. Im passionate about software
 ![](https://img.shields.io/badge/CSS-Technology-informational?style=flat&logo=css3&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/Sass-Technology-informational?style=flat&logo=sass&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/Docker-Technology-informational?style=flat&logo=docker&logoColor=white&color=0080ff)
+![](https://img.shields.io/badge/Node.js-Technology-informational?style=flat&logo=node.js&logoColor=white&color=0080ff)
 
 ![](https://img.shields.io/badge/Oracle-Database-informational?style=flat&logo=oracle&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/PostgreSQL-Database-informational?style=flat&logo=postgresql&logoColor=white&color=0080ff)
@@ -30,15 +31,6 @@ I'm Julio Casallo, a full stack web developer 💻. Im passionate about software
 ![](https://img.shields.io/badge/AWS-Cloud-informational?style=flat&logo=amazon-aws&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/DigitalOcean-Cloud-informational?style=flat&logo=digitalocean&logoColor=white&color=0080ff)
 
-
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioct99&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
