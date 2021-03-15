@@ -2,8 +2,6 @@
 
 I'm Julio Casallo, a full stack web developer 💻. Im passionate about software development, and always wanting to learn,try and teach new stuff.
 
-![](https://img.shields.io/badge/VSCode-Editor-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0080ff)
-
 ![](https://img.shields.io/badge/React-Framework-informational?style=flat&logo=react&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/Vue-Framework-informational?style=flat&logo=vue.js&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/Angular-Framework-informational?style=flat&logo=angular&logoColor=white&color=0080ff)
