@@ -29,7 +29,7 @@ I'm Julio Casallo, a full stack web developer 💻. Im passionate about software
 
 ![](https://img.shields.io/badge/AWS-Cloud-informational?style=flat&logo=amazon-aws&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/DigitalOcean-Cloud-informational?style=flat&logo=digitalocean&logoColor=white&color=0080ff)
-![](https://img.shields.io/badge/Heroku-Cloud-informational?style=flat&logo=heroku&logoColor=white&color=0080ff)
+![](https://img.shields.io/badge/Heroku-PaaS-informational?style=flat&logo=heroku&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/Firebase-PaaS-informational?style=flat&logo=firebase&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/Netlify-PaaS-informational?style=flat&logo=netlify&logoColor=white&color=0080ff)
 
