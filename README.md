@@ -31,6 +31,7 @@ I'm Julio Casallo, a full stack web developer 💻. Im passionate about software
 ![](https://img.shields.io/badge/DigitalOcean-Cloud-informational?style=flat&logo=digitalocean&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/Heroku-Cloud-informational?style=flat&logo=heroku&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/Firebase-PaaS-informational?style=flat&logo=firebase&logoColor=white&color=0080ff)
+![](https://img.shields.io/badge/Netlify-PaaS-informational?style=flat&logo=netlify&logoColor=white&color=0080ff)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioct99&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
