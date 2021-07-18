@@ -3,10 +3,10 @@
 I'm Julio Casallo, a full stack web developer 💻. Im passionate about software development, and always wanting to learn,try and teach new stuff.
 
 ![](https://img.shields.io/badge/React-Framework-informational?style=flat&logo=react&logoColor=white&color=0080ff)
-![](https://img.shields.io/badge/Vue-Framework-informational?style=flat&logo=vue-dot-js&logoColor=white&color=0080ff)
+![](https://img.shields.io/badge/Vue-Framework-informational?style=flat&logo=vuedotjs&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/Angular-Framework-informational?style=flat&logo=angular&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/Express-Framework-informational?style=flat&logo=express&logoColor=white&color=0080ff)
-![](https://img.shields.io/badge/Next-Framework-informational?style=flat&logo=next-dot-js&logoColor=white&color=0080ff)
+![](https://img.shields.io/badge/Next-Framework-informational?style=flat&logo=nextdotjs&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/Flask-Framework-informational?style=flat&logo=flask&logoColor=white&color=0080ff)
 
 ![](https://img.shields.io/badge/JavaScript-Language-informational?style=flat&logo=javascript&logoColor=white&color=0080ff)
@@ -18,7 +18,7 @@ I'm Julio Casallo, a full stack web developer 💻. Im passionate about software
 ![](https://img.shields.io/badge/CSS-Technology-informational?style=flat&logo=css3&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/Sass-Technology-informational?style=flat&logo=sass&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/Docker-Technology-informational?style=flat&logo=docker&logoColor=white&color=0080ff)
-![](https://img.shields.io/badge/Node.js-Technology-informational?style=flat&logo=node-dot-js&logoColor=white&color=0080ff)
+![](https://img.shields.io/badge/Node.js-Technology-informational?style=flat&logo=nodedotjs&logoColor=white&color=0080ff)
 
 ![](https://img.shields.io/badge/Oracle-Database-informational?style=flat&logo=oracle&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/PostgreSQL-Database-informational?style=flat&logo=postgresql&logoColor=white&color=0080ff)
@@ -28,6 +28,7 @@ I'm Julio Casallo, a full stack web developer 💻. Im passionate about software
 ![](https://img.shields.io/badge/Redis-Database-informational?style=flat&logo=redis&logoColor=white&color=0080ff)
 
 ![](https://img.shields.io/badge/AWS-Cloud-informational?style=flat&logo=amazon-aws&logoColor=white&color=0080ff)
+![](https://img.shields.io/badge/GoogleCloud-Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/DigitalOcean-Cloud-informational?style=flat&logo=digitalocean&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/Heroku-PaaS-informational?style=flat&logo=heroku&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/Firebase-PaaS-informational?style=flat&logo=firebase&logoColor=white&color=0080ff)
