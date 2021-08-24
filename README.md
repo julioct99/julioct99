@@ -5,9 +5,10 @@ I'm Julio Casallo, a full stack web developer 💻. Im passionate about software
 ![](https://img.shields.io/badge/React-Framework-informational?style=flat&logo=react&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/Vue-Framework-informational?style=flat&logo=vuedotjs&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/Angular-Framework-informational?style=flat&logo=angular&logoColor=white&color=0080ff)
+![](https://img.shields.io/badge/Flask-Framework-informational?style=flat&logo=flask&logoColor=white&color=0080ff)
+![](https://img.shields.io/badge/Django-Framework-informational?style=flat&logo=django&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/Express-Framework-informational?style=flat&logo=express&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/Next-Framework-informational?style=flat&logo=nextdotjs&logoColor=white&color=0080ff)
-![](https://img.shields.io/badge/Flask-Framework-informational?style=flat&logo=flask&logoColor=white&color=0080ff)
 
 ![](https://img.shields.io/badge/JavaScript-Language-informational?style=flat&logo=javascript&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/TypeScript-Language-informational?style=flat&logo=typescript&logoColor=white&color=0080ff)
